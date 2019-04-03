@@ -6,7 +6,7 @@ See https://xebia.com/blog/profiling-zsh-shell-scripts/
 
 The guide uses ocaml, which I wouldn't ever have on my workstation -- so we build it using a docker container.
 
-OSX has a port of kcachegrind - qcachegrind.  We can intall from brew:
+OSX has a port of kcachegrind - qcachegrind.  We can install from brew:
 
 ```
 brew install qqcachegrind
